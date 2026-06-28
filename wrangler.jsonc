@@ -1,0 +1,11 @@
+{
+  "name": "arous-mission-control",
+  "compatibility_date": "2026-06-28",
+  "assets": {
+    "directory": ".",
+    "not_found_handling": "single-page-application"
+  },
+  "observability": {
+    "enabled": true
+  }
+}
